@@ -6,7 +6,7 @@ authors = ["ksm <ksm@daiblab.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.10"
 python-dotenv = "^1.0.1"
 django = "^5.1.2"
 djangorestframework = "^3.15.2"
